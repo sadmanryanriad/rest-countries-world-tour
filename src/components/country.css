@@ -1,0 +1,15 @@
+.country{
+    border: 2px solid skyblue;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.flag{
+    width: 300px;
+    height: 170px;
+}
+
+.visited{
+    background-color: bisque;
+}
